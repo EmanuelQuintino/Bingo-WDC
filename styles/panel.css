@@ -1,10 +1,13 @@
-.bingoPenal {
+.bingoPanal {
     height: calc(100vh - 3.2rem);
     background: rgba(0, 0, 0, 0.3);
     padding: 1.6rem;
 
     color: white;
     font-weight: 600;
+
+    display: grid;
+    align-items: center;
 
     border-radius: .8rem;
     text-shadow: .1rem .1rem .2rem black;
@@ -83,7 +86,7 @@
     display: grid;
     place-items: center;
 
-    margin: 2.8rem 0;
+    margin: 2.0rem 0;
     padding: .8rem;
     border-radius: .8rem;
     background: rgba(255, 255, 0, 0.3);
@@ -118,7 +121,7 @@
 }
 
 .lastNumbersContainer {
-    margin-top: 2.4rem;
+    margin-top: 1.6rem;
     display: grid;
     place-items: center;
 }
@@ -153,7 +156,7 @@
 }
 
 @media (max-width: 480px) {
-    .bingoPenal {
+    .bingoPanal {
         height: 100%;
         padding: .8rem 1.6rem;
     }
