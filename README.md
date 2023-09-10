@@ -3,14 +3,13 @@
 <img src="https://emanuelquintino.github.io/Page-WDC/images/screenBingo.png" alt="image">
 
 <p> 
-  Uso indicado onde se encontram grupo de pessoas, o projeto de Bingo foi desenvolvido junto com os alunos <br> 
-  do curso de Desenvolvimento Web e é de caráter recreativo.  
+  O projeto Bingo foi desenvolvido junto com os alunos do curso de Desenvolvimento Web para conclusão do módulo de JavaScript.
+</p>
+
+<p>
+  Ele é de caráter recreativo e tem funções de escolher tema, gerar cartelas e monitorar quais delas foram premiadas.
 </p>
 
 <p>
   Foi abordado Lógica, Funções, Eventos, Dom e conceitos de UI/UX e de Clean Code.
-</p>
-
-<p>  
-  Imprima suas cartelas em casa, no trabalho, na escola e a diversão será garantida! 
 </p>
