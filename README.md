@@ -3,7 +3,7 @@
 <img src="https://emanuelquintino.github.io/Page-WDC/images/screenBingo.png" alt="image">
 
 <p> 
-  O projeto Bingo foi desenvolvido junto com os alunos do curso de Desenvolvimento Web para conclusão do módulo de JavaScript.
+  O projeto Bingo foi desenvolvido junto com os alunos do curso de [Desenvolvimento Web](https://emanuelquintino.github.io/Page-WDC/) para conclusão do módulo de JavaScript.
 </p>
 
 <p>
